@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Marc\source\repos\NaughtsAndCrosses\NaughtsAndCrosses\main.cpp(124,15): warning C4553: '==': result of expression not used; did you intend '='?
+  NaughtsAndCrosses.vcxproj -> C:\Users\Marc\source\repos\NaughtsAndCrosses\x64\Debug\NaughtsAndCrosses.exe
